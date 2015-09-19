@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ecolearnia/ecofyjs-config.git"
+    "url": "https://github.com/altenia/ecofyjs-config.git"
   },
   "keywords": [
     "config"
@@ -16,11 +16,11 @@
   "author": "Young Suk Ahn Park",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ecolearnia/ecofyjs-config/issues"
+    "url": "https://github.com/altenia/ecofyjs-config/issues"
   },
-  "homepage": "https://github.com/ecolearnia/ecofyjs-config",
+  "homepage": "https://github.com/altenia/ecofyjs-config",
   "dependencies": {
-    "ecofyjs-exception": "git://github.com/ecolearnia/ecofyjs-exception.git",
+    "ecofyjs-exception": "git://github.com/altenia/ecofyjs-exception.git",
     "nconf": "^0.7.1"
   },
   "devDependencies": {
